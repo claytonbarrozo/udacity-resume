@@ -69,7 +69,7 @@ var projects = {
         "title": "Soccer Kids Soccer",
         "dates": "October 2016",
         "description": "Build a website to a colleague of mine",
-        "images": ["http://soccerkids.ie/images/logo1.png"]
+        "images": ["https://soccerkids.ie/images/logo1.png"]
     }]
 
 };
